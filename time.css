@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h2 {
+    font-size: 65px;
+    color : purple;
+    text-shadow: 2px 1px white;
+     
+}
+
+button {
+    font-size: 30px;
+    border-radius: 15px;
+    color: purple;
+    background-color: orange;
+    box-shadow: 3px 3px white;
+    border-color: purple;
+}
+
+p {
+    font-size: 25px;
+    color: purple;
+    text-shadow: .5px .5px white;
+}
+
+h2 ,button ,p {
+    margin: 50px;
+}
